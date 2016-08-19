@@ -1,6 +1,0 @@
-version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
-options: "d4a48a32441fe274919e55ee83825aba"
-build_time: [524883085, 547101000]
-inputs:
-  "/Users/soumya/Development/Swift/HappyWeather/HappyWeather/ViewController.swift": [524881860, 0]
-  "/Users/soumya/Development/Swift/HappyWeather/HappyWeather/AppDelegate.swift": [524881860, 0]
